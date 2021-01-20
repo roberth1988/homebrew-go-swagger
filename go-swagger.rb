@@ -1,7 +1,7 @@
 class GoSwagger < Formula
   desc "Toolkit to work with swagger for golang"
   homepage "https://github.com/go-swagger/go-swagger"
-  version "0.26.0"
+  version "0.25.0"
   @@filename = nil
   if OS.mac?
     @@filename = "swagger_darwin_amd64"
